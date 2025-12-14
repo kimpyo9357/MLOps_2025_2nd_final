@@ -1,0 +1,4 @@
+dataset/*
+**/ckpt/*
+**/__pycache__/*
+**/wandb/*
